@@ -1,9 +1,12 @@
 <img src="https://github.com/Riwa-Hammoud/Batterly/blob/main/images/Batterly.png">
-<p><i>Batterly</i> is an imaginary bakery brought to life through this cute and functional menu website. Designed with a passion for sweets and baking, this project showcases a delightful menu crafted using HTML and CSS, with a special focus on flexbox layout to create a responsive and engaging design.</p>
+<p> Welcome to Batterly — an imaginary bakery filled with sweet treats, where creativity meets deliciousness! This project is a simple and cute menu website designed to showcase the mouth-watering offerings of Batterly in a visually appealing way.</p>
+
+<h2>Why Batterly? 🎂</h2>
+<p>I love sweets and baking, so I decided to combine that passion with my coding practice. Batterly is an imaginary bakery I dreamed up to showcase my learning progress while having fun with design. It’s a reflection of my interest in creating things that bring joy and comfort—whether it’s a slice of cake or a well-crafted website. </p>
 
 <h2>Purpose</h2>
 
-<p>The goal of this project was to enhance my skills with flexbox while creating a charming and user-friendly bakery menu. *Batterly* is designed to reflect my love for baking and sweets, and serves as a creative exercise in web design and layout. Through this project, I aimed to combine my passion for confectionery with practical web development skills.</p>
+<p>The goal of this project was to enhance my skills with flexbox while creating a charming and user-friendly bakery menu. <i>Batterly</i> is designed to reflect my love for baking and sweets, and serves as a creative exercise in web design and layout. Through this project, I aimed to combine my passion for confectionery with practical web development skills.</p>
 
 
 <h2>Features</h2>
@@ -40,11 +43,8 @@ cd Batterly
 <p>Here are some screenshots of Batterly Menu:</p>
 <p>Homepage: <img src=""><br>
 Menu Layout: <img src=""><br>
-Spotlight on Innovation: </p>
+Batterly: </p>
 
-Homepage:
-
-Menu Layout:
 
 <h2>Contribute</h2>
 <p>I welcome contributions to The Chronicle of Innovation. To get started: <br>
