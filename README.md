@@ -41,9 +41,10 @@ cd Batterly
 
 <h2>User Guide / Demo</h2>
 <p>Here are some screenshots of Batterly Menu:</p>
-<p>Homepage: <img src=""><br>
-Menu Layout: <img src=""><br>
+<p>Homepage: <img src="https://github.com/Riwa-Hammoud/Batterly/blob/main/images/Batterly-homepage.png"><br>
 Batterly: </p>
+
+![Recording](https://github.com/Riwa-Hammoud/The-Chronicle-of-Innovation/blob/main/images/Recording_innovation%20(1).gif)
 
 
 <h2>Contribute</h2>
