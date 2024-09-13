@@ -1,3 +1,14 @@
+:root {
+    --primary-color: #000;
+    --accent-color: #C83F49;
+    --font-weight-bold: bold;
+    --font-size-medium: 1.3rem;
+    --padding-small: 20px;
+    --border-radius: 8px;
+    --transition-speed: 0.3s;
+    --margin-large: 30px;
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -7,7 +18,7 @@
 
 body {
     min-height: 100vh;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 header {
@@ -16,7 +27,7 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url("../images/batterly.png") ;
+    background-image: url("../images/batterly.png");
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -24,7 +35,7 @@ header {
 main {
     display: flex;
     flex-direction: column;
-    margin: 0px 20px 50px 20px;
+    margin: 0px 20px var(--margin-large) 20px;
 }
 
 figure {
@@ -51,21 +62,21 @@ nav {
 }
 
 a {
-    color: #000;
+    color: var(--primary-color);
     background-color: #f6f4f4;
     font-weight: 800;
-    font-size: 1.3rem;
+    font-size: var(--font-size-medium);
     text-decoration: none;
-    padding: 20px 40px;
-    border: solid #000 1px;
-    border-radius: 8px;
-    transition: 0.3s ease-in-out;
+    padding: var(--padding-small) 40px;
+    border: solid var(--primary-color) 1px;
+    border-radius: var(--border-radius);
+    transition: var(--transition-speed) ease-in-out;
 }
 
 a:hover {
     color: #fff;
-    background-color: #C83F49;
-    border: solid #C83F49 1px;
+    background-color: var(--accent-color);
+    border: solid var(--accent-color) 1px;
 }
 
 h2 {
@@ -80,7 +91,7 @@ h2 {
 }
 
 #pastries, #cakes, #drinks, #cookies, #breads {
-    margin-bottom: 50px;
+    margin-bottom: var(--margin-large);
 }
 
 @media screen and (max-width: 832px) {
@@ -104,7 +115,7 @@ h2 {
 
 .menu-name {
     font-size: 1.2rem;
-    font-weight: bolder;
+    font-weight: var(--font-weight-bold);
 }
 
 footer {
@@ -112,9 +123,9 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-weight: bold;
-    padding: 20px;
-    border-top: 1px solid #ddd; 
+    font-weight: var(--font-weight-bold);
+    padding: var(--padding-small);
+    border-top: 1px solid #ddd;
     width: 100%;
     bottom: 0;
 }
