@@ -1,4 +1,4 @@
-<img src="https://github.com/Riwa-Hammoud/Batterly/blob/main/images/batterly.png">
+<img src="https://github.com/Riwa-Hammoud/Batterly/blob/main/images/Batterly.png">
 <p><i>Batterly</i> is an imaginary bakery brought to life through this cute and functional menu website. Designed with a passion for sweets and baking, this project showcases a delightful menu crafted using HTML and CSS, with a special focus on flexbox layout to create a responsive and engaging design.</p>
 
 <h2>Purpose</h2>
