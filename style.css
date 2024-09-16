@@ -52,7 +52,7 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url("../images/batterly.png");
+    background-image: url("images/batterly.png");
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -120,7 +120,7 @@ h2 {
 }
 
 @media screen and (max-width: 832px) {
-    .pastries-items {
+    .pastries-items, .cakes-items, .drinks-items, .cookies-items, .breads-items {
         display: grid;
         grid-template-columns: 85%;
         gap: 20px 5%;
