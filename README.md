@@ -1,7 +1,7 @@
 <img src="https://github.com/Riwa-Hammoud/Batterly/blob/main/images/Batterly.png">
 <p> Welcome to Batterly — an imaginary bakery filled with sweet treats, where creativity meets deliciousness! This project is a simple and cute menu website designed to showcase the mouth-watering offerings of Batterly in a visually appealing way.</p>
 
-<h2>Why Batterly? 🎂</h2>
+<h2>Why Batterly?</h2>
 <p>I love sweets and baking, so I decided to combine that passion with my coding practice. Batterly is an imaginary bakery I dreamed up to showcase my learning progress while having fun with design. It’s a reflection of my interest in creating things that bring joy and comfort—whether it’s a slice of cake or a well-crafted website. </p>
 
 <h2>Purpose</h2>
@@ -22,7 +22,7 @@
 - **CSS**: Styling and layout, with a focus on **flexbox** for a responsive design.
 
 <h2>Installation Instructions</h2>
-<p>To view The Chronicle of Innovation on your local machine, follow these steps: </p>
+<p>To view Batterly on your local machine, follow these steps: </p>
 
 <h3>1- Clone the repository:</h3>
 
@@ -44,11 +44,11 @@ cd Batterly
 <p>Homepage: <img src="https://github.com/Riwa-Hammoud/Batterly/blob/main/images/Batterly-homepage.png"><br>
 Batterly: </p>
 
-![Recording](https://github.com/Riwa-Hammoud/The-Chronicle-of-Innovation/blob/main/images/Recording_innovation%20(1).gif)
+![Recording](https://github.com/Riwa-Hammoud/Batterly/blob/main/images/batterly.gif)
 
 
 <h2>Contribute</h2>
-<p>I welcome contributions to The Chronicle of Innovation. To get started: <br>
+<p>I welcome contributions to Batterly. To get started: <br>
 
 1- Fork the repository <br>
 2- Create a new branch (git checkout -b feature-branch) <br>
@@ -61,7 +61,7 @@ Batterly: </p>
 <p>Feel free to reach out to me: </p>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/riwa-hammoud)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:riwahammoud1@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:riwa.a.hammoud@gmail.com)
 
 <h2>Permission Information</h2>
 <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE.md</a> file for details.</p>
