@@ -30,14 +30,13 @@
 git clone https://github.com/Riwa-Hammoud/Batterly.git
  ```
 
-<h3>2- Navigate to the project directory:</h3>
+<h3>2- Open the project:</h3>
+<p>Simply open the "index.html" file, in your preferred web browser.</p> 
 
-```bash
-cd Batterly
- ```
+Or click here:
 
-<h3>3- Open the project:</h3>
-<p>Simply open the "index.html" file, located in the "batterly" folder, in your preferred web browser.</p>
+[![Netlify](https://img.shields.io/badge/netlify-545a61?logo=netlify&logoColor=fff)](https://batterly.netlify.app)
+
 
 <h2>User Guide / Demo</h2>
 <p>Here are some screenshots of Batterly Menu:</p>
