@@ -8,15 +8,30 @@
 </head>
 <body>
     <header>
+        <nav>
+            <div class="logo">
+                <img src="images/logo.png" alt="Pastry Shop Logo">
+                <h1>Sweet Delights</h1>
+            </div>
+            <ul class="nav-links">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#menu">Menu</a></li>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+            <div class="cart">
+                <a href="#cart"><img src="images/cart-icon.png" alt="Cart"></a>
+            </div>
+        </nav>
         <h1>Batterly Bakery Menu</h1>
     </header>
 
-    <nav>
-        <a href="#pastries">Pastries</a>
-        <a href="#cakes">Cakes</a>
-        <a href="#drinks">Drinks</a>
-        <a href="#cookies">Cookies</a>
-        <a href="#breads">Breads</a>
+    <nav class="categories_nav">
+        <a href="#pastries" class="categories">Pastries</a>
+        <a href="#cakes" class="categories">Cakes</a>
+        <a href="#drinks" class="categories">Drinks</a>
+        <a href="#cookies" class="categories">Cookies</a>
+        <a href="#breads" class="categories">Breads</a>
     </nav>
 
     <main>

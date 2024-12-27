@@ -78,7 +78,7 @@ figcaption, h1 {
     transform: translate(-10000%);
 }
 
-nav {
+.categories_nav {
     display: flex;
     margin: 1.5%;
     gap: 2%;
@@ -87,7 +87,7 @@ nav {
     justify-content: center;
 }
 
-a {
+.categories {
     color: var(--primary-color);
     background-color: #f6f4f4;
     font-weight: 800;
@@ -99,7 +99,7 @@ a {
     transition: 0.3s ease-in-out;
 }
 
-a:hover {
+.categories:hover {
     color: var(--light-color);
     background-color: var(--accent-color);
     border: solid var(--accent-color) 1px;
