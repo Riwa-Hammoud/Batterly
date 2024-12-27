@@ -9,6 +9,7 @@
     --padding-small: 20px;
     --margin-large: 30px;
     --border: 1px solid #ddd;
+    --border-darker: 1px solid #b4b0b0;
 }
 
 ::-webkit-scrollbar {
@@ -130,12 +131,24 @@ h2 {
 .menu-item {
     display: flex;
     gap: 10%;
+    border: var(--border-darker);
+    border-radius: 8px; /* Rounded corners */
+    padding: var(--padding-small);
+    background-color: var(--light-color); /* Card background color */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 .menu-description {
     font-size: 1rem;
     line-height: 2;
     width: 35ch;
+    padding: 10px;
+}
+
+.menu-price {
+    font-size: 1.1rem;
+    color: var(--accent-color); /* Price color accent */
+    margin-top: 10px;
 }
 
 .menu-name {
